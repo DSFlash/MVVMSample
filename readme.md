@@ -2,6 +2,5 @@
 
 This is a sample code for MVVM playground. 
 
-Please refer to tag 'MVC' to find the MVC version of the app.
-And then please checke the latest code for the MVVM version with unit tests, it's cool!
+The repository is copied from https://github.com/koromiko/Tutorial/tree/MVC/MVVMPlayground. To check how the MVVM behaves, added few VC's and check navigation with MVVM.
 
